@@ -412,7 +412,7 @@ nav button:hover{
         grid-template-columns: 1fr
     }
 
-    nav a{
+    nav {
         display: none;
     }
     .container{
